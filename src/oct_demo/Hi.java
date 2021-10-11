@@ -7,7 +7,7 @@ public class Hi {
 		//dummy comment
 		System.out.println("Hi");
 		System.out.println("Hi Swathi");
-                System.out.println("Hello");
+               
 	}
 
 }
